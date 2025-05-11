@@ -1,0 +1,96 @@
+16
+Team Alpha
+Ali
+Ayesha
+Bilal
+
+
+15
+Team Beta
+David
+Fatima
+Hassan
+
+3
+Team Gamma
+Kamran
+Hina
+Irfan
+
+4
+Team Delta
+Junaid
+Khadija
+Liaqat
+
+5
+Team Epsilon
+Mariam
+Naveed
+Owais
+
+6
+Team Zeta
+Parveen
+Qasim
+Rabia
+
+7
+Team Eta
+Sana
+Tariq
+Uzma
+
+8
+Team Theta
+Vasif
+Waseem
+Xara
+
+11
+Team Iota
+Yasir
+Zainab
+Adeel
+
+10
+Team Kappa
+Bilqis
+Carlos
+Danish
+
+9
+Team Lambda
+Ehtasham
+Fatima
+Gulsher
+
+12
+Team Mu
+Hooriya
+Irfan
+Jameel
+
+13
+Team Nu
+Kiran
+Laila
+Mohsin
+
+14
+Team Xi
+Nazia
+Omer
+Pooja
+
+1
+Team Omicron
+Quaid
+Razia
+Sadiq
+
+2
+Team Pi
+Tariq
+Urooj
+Vicky

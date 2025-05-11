@@ -1,0 +1,3 @@
+C:\Users\Sherry\Desktop\DS Project\Hackathon\Hackathon\x64\Release\Hackathon.vcxproj.AssemblyReference.cache
+C:\Users\Sherry\Desktop\DS Project\Hackathon\Hackathon\x64\Release\Hackathon.MyForm.resources
+C:\Users\Sherry\Desktop\DS Project\Hackathon\Hackathon\x64\Release\Hackathon.vcxproj.GenerateResource.cache

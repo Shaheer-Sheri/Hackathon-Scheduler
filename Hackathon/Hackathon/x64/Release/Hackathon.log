@@ -1,0 +1,12 @@
+﻿  AddTeams.cpp
+  ManageRounds.cpp
+  Match.cpp
+  MyForm.cpp
+  Scheduler.cpp
+  Team.cpp
+C:\Users\Sherry\Desktop\DS Project\Hackathon\Team.cpp(17,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TeamQueue.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  AddTeams.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Hackathon.vcxproj -> C:\Users\Sherry\Desktop\DS Project\Hackathon\x64\Release\Hackathon.exe
